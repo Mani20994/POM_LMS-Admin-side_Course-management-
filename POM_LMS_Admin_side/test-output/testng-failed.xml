@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.LMS.testcases.AddCoursepageTest">
+      <class name="com.LMS.testcases.ViewOrgTermDisciplinepageTest">
         <methods>
           <include name="clickoncourse"/>
         </methods>
-      </class> <!-- com.LMS.testcases.AddCoursepageTest -->
+      </class> <!-- com.LMS.testcases.ViewOrgTermDisciplinepageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

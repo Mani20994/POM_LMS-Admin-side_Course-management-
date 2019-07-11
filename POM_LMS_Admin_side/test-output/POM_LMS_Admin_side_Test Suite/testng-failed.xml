@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [POM_LMS_Admin_side_Test Suite]">
+  <test name="Latitude Test(failed)">
+    <classes>
+      <class name="com.LMS.testcases.AddInstitutionalrolepageTest">
+        <methods>
+          <include name="clickoncourse"/>
+        </methods>
+      </class> <!-- com.LMS.testcases.AddInstitutionalrolepageTest -->
+    </classes>
+  </test> <!-- Latitude Test(failed) -->
+</suite> <!-- Failed suite [POM_LMS_Admin_side_Test Suite] -->
